@@ -72,6 +72,20 @@ Timeline/workflow visualization for:
 * Architectures
 * Steps
 
+## ⚙️ How It Works
+
+```text
+User Input
+   ↓
+AI Content Generation
+   ↓
+Slide Planning
+   ↓
+MCP Slide Rendering
+   ↓
+PowerPoint Export
+```
+
 ### 🎯 Title Slide
 
 Modern hero slide with premium layout.
